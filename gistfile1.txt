@@ -1,11 +1,3 @@
-<style>
-  body          { margin:40px; color:#333; }
-  a, a:visited  { color: black; }
-  code          {background-color: #f8f8f8; padding:5px;}
-  li            { margin:5px; }
-  p             {margin:30px 0;}
-</style>
-
 ## Best Aquarium Filters Reviews!
 
 This file exists, all right. In fact, I wrote it for the world to see. If you've [installed keybase](https://keybase.io/download) you can see this file at `/keybase/public/chris/index.md`.
